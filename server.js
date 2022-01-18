@@ -22,3 +22,4 @@ app.listen(port, (error) => {
     ? console.log("Connection failed to the server !")
     : console.log(`Server is running on port ${port} ...`);
 });
+console.clear();
